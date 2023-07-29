@@ -1,0 +1,5 @@
+{
+    "btnSelectLocations": ".select-dropdown--job-locations .button",
+    "liLocations": ".selectric-scroll li",
+    "divJobContainer": ".block-careers-listing__job"
+}
